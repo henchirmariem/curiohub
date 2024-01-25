@@ -1,0 +1,12 @@
+env\Scripts\activate  //Activer virtuel machine
+python -m venv env //cree virtuel machine
+pip install virtualenv //installer virtuel machine
+label-studio  //ouvrir label studio
+pip install -U label-studio //intaller label studio
+
+fullname
+title
+descriptions
+Skills
+education
+experience
